@@ -6,10 +6,10 @@ MapBox for Mootools 1.4
 How to use
 ----------
 
-    First, you need to create an account on this site https://tiles.mapbox.com/
-    to create your Map and use it in your site.
+First, you need to create an account on this site https://tiles.mapbox.com/
+to create your Map and use it in your site.
 
-    After, edit Html page of your site like this :
+After, edit Html page of your site like this :
 
     <!DOCTYPE html>
     <html xmlns="http://www.w3.org/1999/xhtml">
